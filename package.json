@@ -1,0 +1,12 @@
+{
+  "name": "redusers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
